@@ -1,1 +1,4 @@
 another change in testing branch
+content testing
+new line from master branch
+commit from hotfix
