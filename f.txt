@@ -1,1 +1,2 @@
 content testing
+new line from master branch
